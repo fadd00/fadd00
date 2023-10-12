@@ -1,5 +1,5 @@
-# fadd
-<h1 align="center">Hi 👋, I'm Andhika Hutama</h1>
+# hello
+<h1 align="center">I'm Andhika Hutama</h1>
 <h3 align="center">A student from University of Muhammadiyah Yogyakarta</h3>
 
 - 🌱 I’m currently learning **Java, Python, C++**
