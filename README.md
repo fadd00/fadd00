@@ -1,21 +1,6 @@
- 
-  
+### 你好 :3    
 
-### <div align="center">I'm Andhika Hutama, an IT student </div>  
-  
+這只是我，我自己，還有愚蠢的我
 
-- 🔭 I’m a student at Muhammadiyah University of Yogyakarta  
-  
-
-- 🌱 I’m currently unemployed  
-  
-
-- ❓ Ask me about anything related to tech and automotive  
-  
-
-- ⚡ Fun fact: I know anything, but i'm not master at anything
-
-- the commit is just a joke okay :3
-  
-
-<br/>  
+> Ashen One, Hearest Thou My Voice, Still?
+![dark-souls-dark-souls-iii-fire-keeper-alcd-wallpaper-thumb](https://github.com/user-attachments/assets/bdd984da-5d71-4f48-b14d-0eb8f8082b4d)
