@@ -7,8 +7,10 @@
 ![dark-souls-dark-souls-iii-fire-keeper-alcd-wallpaper-thumb](https://github.com/user-attachments/assets/bdd984da-5d71-4f48-b14d-0eb8f8082b4d)
 
 # 📊 GitHub Stats:
-![fadd00's Stats](https://github-readme-stats.vercel.app/api?username=fadd00&theme=dracula&show_icons=true&hide_border=true&count_private=true)
-![fadd00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadd00&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![fadd00's Streak](https://github-readme-streak-stats.herokuapp.com/?user=fadd00&theme=dracula&hide_border=true) <br>
+![fadd00's Stats](https://github-readme-stats.vercel.app/api?username=fadd00&theme=dracula&show_icons=true&hide_border=true&count_private=true) <br>
+![fadd00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadd00&theme=dracula&show_icons=true&hide_border=true&layout=compact) 
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fadd00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
