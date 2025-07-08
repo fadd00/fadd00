@@ -7,10 +7,7 @@
 ![dark-souls-dark-souls-iii-fire-keeper-alcd-wallpaper-thumb](https://github.com/user-attachments/assets/bdd984da-5d71-4f48-b14d-0eb8f8082b4d)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=fadd00&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fadd00&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fadd00&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fadd00)](https://github.com/anuraghazra/github-readme-stats)
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=fadd00&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
