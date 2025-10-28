@@ -4,7 +4,7 @@ I am an Information Technology student at Universitas Muhammadiyah yogyakarta. p
 ---
 
 ### 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhikaarch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/andhika-hutama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andhikahutama9@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dhikaarch) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/andhika-hutama) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andhikahutama9@gmail.com) 
 
 I'm looking to collaborate on Game, Software, and Web Development Projects
 
